@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hello there. 
 
-<!--
-**Wallsified/Wallsified** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I go as Wallsified since my surname is "Paredes", which is spanish for "wall". Makes sense right?
 
-Here are some ideas to get you started:
+ ### Quick Bio:  
+- 22 Years Old
+- Currently studying Computer Science
+- Kandi Kid, Full Flavour hearted. 
+- He/Him is okay with me c:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Check this repos: 
+I use AwesomeWM so I created a theme I like to call [Spacedust](https://github.com/Wallsified/Wallsified.git). Be my guest if you wanna try it. You can reach me on [here](https://s.reddit.com/c/19d69lkf8u11i) if you have any doubts or tweaks on it. 
+
+
+> *I suggest you try it again...This time, let go you coincious self and act on instinct.*
