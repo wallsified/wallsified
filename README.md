@@ -1,9 +1,9 @@
 <h2 align ="center"> 
 Hello there. 
-<h2/>
 
 ### 
 I go as _Wallsified_ since my surname is "Paredes", which is spanish for "wall". Makes sense right?
+<h2/>
 
  ## Quick Bio:  
 - 📆 23 Years Old.
@@ -13,7 +13,7 @@ I go as _Wallsified_ since my surname is "Paredes", which is spanish for "wall".
 
 ## Me at the moment: 
 - 💻 Currently studying Computer Science at Faculty of Sciencies, UNAM, Mexico City.
-- :penguin: I use Arco Linux + AwesomeWM w/ [Spaceduest](https://github.com/Wallsified/Spacedust.git). (My custom AwesomeWM dotfiles). 
+- :penguin: I use Arco Linux + AwesomeWM.
 
 ## Languages I use / I'm Learning : 
 
@@ -23,10 +23,15 @@ I go as _Wallsified_ since my surname is "Paredes", which is spanish for "wall".
 ![Haskell](https://img.shields.io/badge/basic-purple?style=for-the-badge&logo=Haskell&logoColor=white&label=Haskell)
 ![Arduino](https://img.shields.io/badge/basic-%233186a0?style=for-the-badge&logo=Arduino&logoColor=white&label=Arduino)
 
-
-
 ## Check out this proyects: 
 - [Spaceduest](https://github.com/Wallsified/Spacedust.git) My custom AwesomeWM dotfiles, feel free to tweak it as you like it. 
 - [Scare-O-Meter / Scream Machine](https://github.com/Wallsified/ScreamMachine) A play on the Scare-O-Meter (or Scream Battery) of Pixar's Monsters Inc movies using Arduino and ESP32 chips. 
+
+## Another Me(s):
+![LinkedIn](https://img.shields.io/badge/Daniel_Paredes-%230f548b?style=for-the-badge&logo=LinkedIn&logoColor=white&label=Linkedin&link=www.linkedin.com%2Fin%2Fdaniel-paredes-wallsified)
+![Twiiter](https://img.shields.io/badge/wallsified-%230f548b?style=for-the-badge&logo=Twitter&logoColor=white&label=Twitter&link=https%3A%2F%2Ftwitter.com%2Fwallsified)
+
+
+</br>
 
 > *I suggest you try it again...This time, let go you coincious self and act on instinct.*
