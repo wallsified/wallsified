@@ -15,12 +15,13 @@ I go as _wallsified_ since my surname is "Paredes", which is spanish for "wall".
 - 🗣️ I'm fluent in both Spanish and English. I can understand a bit of French and Italian.
 - 🖱️ I am certified in IT support by Google.
 
-## Languages I'm using/learning : 
+## Languages, Frameworks & Ways of Working I'm using/learning : 
 [![Java](https://img.shields.io/badge/basic%2Fintermediate-%23f89820?style=for-the-badge&logoColor=white&label=Java)]() 
 [![LaTeX](https://img.shields.io/badge/basic%2Fintermediate-%230f548b?style=for-the-badge&logo=Latex&logoColor=white&label=LaTeX)]()
 ![Python](https://img.shields.io/badge/Basic%2FIntermediate-%23234B8BBE?style=for-the-badge&logo=Python&logoColor=white&label=Python)
 ![Haskell](https://img.shields.io/badge/basic-purple?style=for-the-badge&logo=Haskell&logoColor=white&label=Haskell)
 ![Arduino](https://img.shields.io/badge/basic-%233186a0?style=for-the-badge&logo=Arduino&logoColor=white&label=Arduino)
+[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white)](https://conventionalcommits.org)
 
 ## My Proudest Projects: 
 - [Nordflow](https://github.com/wallsified/nordflow) My dotfiles for Openbox.
