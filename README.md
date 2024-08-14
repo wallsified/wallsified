@@ -13,7 +13,7 @@ I go as _wallsified_ since my surname is "Paredes", which is spanish for "wall".
 
 ## Some of my Skills:
 - 🗣️ I'm fluent in both Spanish and English. I can understand a bit of French and Italian.
-- 🖱️ I'm IT Certified by Google and I just got a GitHub Foundations Certification recently. You can see the credentials in my LinkedLn.
+- 🖱️ I'm IT Certified by Google and I just got a GitHub Foundations Certification recently. You can see the credentials in my LinkedIn.
 
 ## Languages, Frameworks, Tools & Ways of Working I'm using/learning : 
 ![Python](https://img.shields.io/badge/python-python?style=for-the-badge&logo=Python&logoColor=white&color=1D3C6E)
@@ -30,13 +30,14 @@ I go as _wallsified_ since my surname is "Paredes", which is spanish for "wall".
 ![Notion](https://img.shields.io/badge/notion-notion?style=for-the-badge&logo=Notion&logoColor=white&color=black)
 
 
-![Wallsified's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=wallsified&show_icons=true&theme=nord#gh-dark-mode-only&include_all_commits=true&rank_icon=github)
+<img src="https://github-readme-stats.vercel.app/api?username=wallsified&show_icons=true&locale=en&theme=nord&rank_icon=github" />
 
 ## My Proudest Projects: 
 - [Nordflow](https://github.com/wallsified/nordflow) My dotfiles for Openbox.
 - [Nordic Dashboard](https://wallsified.notion.site/wallsified/Nordic-Dashboard-31653a95676c43b7830ee2973b27ab38) My Nord-themed Dashboard for Notion.
 - [Scare-O-Meter / Scream Machine](https://github.com/Wallsified/ScreamMachine) A play on the Scare-O-Meter (or Scream Battery) of Pixar's Monsters Inc movies using Arduino and ESP32 chips.
 - [Spacedust](https://github.com/Wallsified/Spacedust.git) My AwesomeWM dotfiles.
+  
   
 ## Another Me's:
 ![LinkedIn](https://img.shields.io/badge/Daniel_Paredes-%230f548b?style=for-the-badge&logo=LinkedIn&logoColor=white&label=Linkedin&link=www.linkedin.com%2Fin%2Fdaniel-paredes-wallsified)
