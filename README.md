@@ -1,5 +1,5 @@
 # Hi! 🧱
-I go as _wallsified_ since my surname is "Paredes", which is spanish for "wall".
+I go as _wallsified_ since my surname is "Paredes", which is spanish for "wall". 
 
  ## Little Somethings About Me:  
 - 📆 24 Years Old.
@@ -13,15 +13,24 @@ I go as _wallsified_ since my surname is "Paredes", which is spanish for "wall".
 
 ## Some of my Skills:
 - 🗣️ I'm fluent in both Spanish and English. I can understand a bit of French and Italian.
-- 🖱️ I am certified in IT support by Google.
+- 🖱️ I'm IT Certified by Google and I just got a GitHub Foundations Certification recently. You can see the credentials in my LinkedLn.
 
-## Languages, Frameworks & Ways of Working I'm using/learning : 
-[![Java](https://img.shields.io/badge/basic%2Fintermediate-%23f89820?style=for-the-badge&logoColor=white&label=Java)]() 
-[![LaTeX](https://img.shields.io/badge/basic%2Fintermediate-%230f548b?style=for-the-badge&logo=Latex&logoColor=white&label=LaTeX)]()
-![Python](https://img.shields.io/badge/Basic%2FIntermediate-%23234B8BBE?style=for-the-badge&logo=Python&logoColor=white&label=Python)
-![Haskell](https://img.shields.io/badge/basic-purple?style=for-the-badge&logo=Haskell&logoColor=white&label=Haskell)
-![Arduino](https://img.shields.io/badge/basic-%233186a0?style=for-the-badge&logo=Arduino&logoColor=white&label=Arduino)
-[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white)](https://conventionalcommits.org)
+## Languages, Frameworks, Tools & Ways of Working I'm using/learning : 
+![Python](https://img.shields.io/badge/python-python?style=for-the-badge&logo=Python&logoColor=white&color=1D3C6E)
+![Java](https://img.shields.io/badge/java-java?style=for-the-badge&logo=Java&logoColor=white&color=F89820)
+![LaTeX](https://img.shields.io/badge/latex-latex?style=for-the-badge&logo=LaTeX&logoColor=white&color=0F548B)
+![Haskell](https://img.shields.io/badge/haskell-haskell?style=for-the-badge&logo=Haskell&logoColor=white&color=800080)
+![Arduino](https://img.shields.io/badge/arduino-arduino?style=for-the-badge&logo=Arduino&logoColor=white&color=3186A0)
+![MySQL](https://img.shields.io/badge/mysql-mysql?style=for-the-badge&logo=mySQL&logoColor=white&color=00758F)
+![Clojure](https://img.shields.io/badge/clojure-clojure?style=for-the-badge&logo=Clojure&logoColor=white&color=12284E)
+![Bash](https://img.shields.io/badge/Bash-bash?style=for-the-badge&logo=GNU%20Bash&logoColor=white&color=434C5E)
+![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?style=for-the-badge&logo=conventionalcommits&logoColor=white)
+![Git](https://img.shields.io/badge/git-git?style=for-the-badge&logo=Git&logoColor=white&color=F1502F)
+![GitHub](https://img.shields.io/badge/github-github?style=for-the-badge&logo=GitHub&logoColor=white&color=black)
+![Notion](https://img.shields.io/badge/notion-notion?style=for-the-badge&logo=Notion&logoColor=white&color=black)
+
+
+![Wallsified's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=wallsified&show_icons=true&theme=nord#gh-dark-mode-only&include_all_commits=true)
 
 ## My Proudest Projects: 
 - [Nordflow](https://github.com/wallsified/nordflow) My dotfiles for Openbox.
