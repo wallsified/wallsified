@@ -30,7 +30,7 @@ I go as _wallsified_ since my surname is "Paredes", which is spanish for "wall".
 ![Notion](https://img.shields.io/badge/notion-notion?style=for-the-badge&logo=Notion&logoColor=white&color=black)
 
 
-![Wallsified's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=wallsified&show_icons=true&theme=nord#gh-dark-mode-only&include_all_commits=true)
+![Wallsified's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=wallsified&show_icons=true&theme=nord#gh-dark-mode-only&include_all_commits=true&rank_icon=github)
 
 ## My Proudest Projects: 
 - [Nordflow](https://github.com/wallsified/nordflow) My dotfiles for Openbox.
