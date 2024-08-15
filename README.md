@@ -1,5 +1,5 @@
 # Hi! 🧱
-I go as _wallsified_ since my surname is "Paredes", which is spanish for "wall". 
+I go as *_wallsified_* since my surname is "Paredes", which is spanish for "wall". 
 
  ## Little Somethings About Me:  
 - 📆 24 Years Old.
@@ -31,6 +31,8 @@ I go as _wallsified_ since my surname is "Paredes", which is spanish for "wall".
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=wallsified&show_icons=true&locale=en&theme=nord&rank_icon=github" />
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=wallsified&theme=nord&hide_border=true)
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wallsified&theme=nord&show_icons=true&hide_border=true&layout=compact)
 
 ## My Proudest Projects: 
 - [Nordflow](https://github.com/wallsified/nordflow) My dotfiles for Openbox.
