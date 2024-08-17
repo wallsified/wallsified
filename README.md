@@ -24,7 +24,7 @@ I go as **_wallsified_** since my surname is "Paredes", which is spanish for "wa
 ![MySQL](https://img.shields.io/badge/mysql-mysql?style=for-the-badge&logo=mySQL&logoColor=white&color=00758F)
 ![Clojure](https://img.shields.io/badge/clojure-clojure?style=for-the-badge&logo=Clojure&logoColor=white&color=12284E)
 ![Bash](https://img.shields.io/badge/Bash-bash?style=for-the-badge&logo=GNU%20Bash&logoColor=white&color=434C5E)
-![Mermaid](https://img.shields.io/badge/MermaidJS-MermaidJS?style=flat&logo=Mermaid&logoColor=white&color=%23FF3670)
+![Mermaid](https://img.shields.io/badge/MermaidJS-MermaidJS?style=for-the-badge&logo=Mermaid&logoColor=white&color=%23FF3670)
 ![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?style=for-the-badge&logo=conventionalcommits&logoColor=white)
 ![Git](https://img.shields.io/badge/git-git?style=for-the-badge&logo=Git&logoColor=white&color=F1502F)
 ![GitHub](https://img.shields.io/badge/github-github?style=for-the-badge&logo=GitHub&logoColor=white&color=black)
