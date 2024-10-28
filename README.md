@@ -1,19 +1,16 @@
 # Hi! 🧱
-I go as **_wallsified_** since my surname is "Paredes", which is spanish for "wall". 
+I go as **_wallsified_** since my surname is "Paredes", which is spanish for "wall". Currently studying Computer Science at School of Sciences, UNAM. I'm also both one of the cofounders and the technical leader of [Sudo FCiencias](https://github.com/Sudo-FCiencias), a tech school club/organization aimed to close technical, social and academic gaps for anyone interested on technological topics. 
 
- ## Little Somethings About Me:  
-- 📆 24 Years Old.
+## Some things about me:  
+- 📆 He/Him, 24 Years Old.
 - 🇲🇽 Born and raised in Mexico City.
 - 🎵 Electronic Music is my jam, all kinds of it.  
 - 🎮 Borderlands 2 it's my favorite videogame of all time. 
-- 👦 He/Him is okay with me.
 - 💻 Currently studying Computer Science at School of Sciencies, UNAM, Mexico City.
-- 🐧 Using Archcraft + Openbox at the moment.
-- 📓 I just love Notion!
+- 🐧 Archcraft + Openbox + Notion is my perfect combo.
+- 🗣️ Fluent both Spanish and English. I can understand a bit of French and Italian.
+- 🖱️ IT Certified by Google. 
 
-## Some of my Skills:
-- 🗣️ I'm fluent in both Spanish and English. I can understand a bit of French and Italian.
-- 🖱️ I'm IT Certified by Google and I just got a GitHub Foundations Certification recently. You can see the credentials in my LinkedIn.
 
 ## Languages, Frameworks, Tools & Ways of Working I'm using/learning : 
 ![Python](https://img.shields.io/badge/python-python?style=for-the-badge&logo=Python&logoColor=white&color=1D3C6E)
@@ -30,23 +27,19 @@ I go as **_wallsified_** since my surname is "Paredes", which is spanish for "wa
 ![GitHub](https://img.shields.io/badge/github-github?style=for-the-badge&logo=GitHub&logoColor=white&color=black)
 ![Notion](https://img.shields.io/badge/notion-notion?style=for-the-badge&logo=Notion&logoColor=white&color=black)
 
+You can have a look at some of my projects in the pinned repos. 
 
-<img src="https://github-readme-stats.vercel.app/api?username=wallsified&show_icons=true&locale=en&theme=nord&rank_icon=github" />
-
-
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallsified&theme=nord&show_icons=true&hide_border=true&layout=compact" alt="wallsified's GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=wallsified&theme=nord&hide_border=true" alt="wallsified's GitHub Stats" />
--->
-
-## My Proudest Projects: 
-- [Nordflow](https://github.com/wallsified/nordflow) My dotfiles for Openbox.
-- [Nordic Dashboard](https://wallsified.notion.site/wallsified/Nordic-Dashboard-31653a95676c43b7830ee2973b27ab38) My Nord-themed Dashboard for Notion.
-- [Scare-O-Meter / Scream Machine](https://github.com/Wallsified/ScreamMachine) A play on the Scare-O-Meter (or Scream Battery) of Pixar's Monsters Inc movies using Arduino and ESP32 chips.
-- [Spacedust](https://github.com/Wallsified/Spacedust.git) My AwesomeWM dotfiles.
-  
-  
 ## Another Me's:
 ![LinkedIn](https://img.shields.io/badge/Daniel_Paredes-%230f548b?style=for-the-badge&logo=LinkedIn&logoColor=white&label=Linkedin&link=www.linkedin.com%2Fin%2Fdaniel-paredes-wallsified)
 ![Twiiter](https://img.shields.io/badge/wallsified-%230f548b?style=for-the-badge&logo=Twitter&logoColor=white&label=Twitter&link=https%3A%2F%2Ftwitter.com%2Fwallsified)
 
 > *I suggest you try it again...this time, let go you coincious self and act on instinct.*
+
+<img src="https://github-readme-stats.vercel.app/api?username=wallsified&show_icons=true&locale=en&theme=nord&rank_icon=github" />
+<!--
+## My Proudest Projects: 
+- [Nordflow](https://github.com/wallsified/nordflow) My dotfiles for Openbox.
+- [Nordic Dashboard](https://wallsified.notion.site/wallsified/Nordic-Dashboard-31653a95676c43b7830ee2973b27ab38) My Nord-themed Dashboard for Notion.
+- [Scare-O-Meter / Scream Machine](https://github.com/Wallsified/ScreamMachine) A play on the Scare-O-Meter (or Scream Battery) of Pixar's Monsters Inc movies using Arduino and ESP32 chips.
+- [Spacedust](https://github.com/Wallsified/Spacedust.git) My AwesomeWM dotfiles.
+-->
