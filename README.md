@@ -1,12 +1,10 @@
 # Hi! 🧱
 I go as **_wallsified_** since my surname is "Paredes", which is spanish for "wall". Currently studying Computer Science at School of Sciences, UNAM. I'm also both one of the cofounders and the technical leader of [Sudo FCiencias](https://github.com/Sudo-FCiencias), a tech school club/organization aimed to close technical, social and academic gaps for anyone interested on technological topics. 
 
-## Some things about me:  
+## A Bit More About Me:  
 - 📆 He/Him, 24 Years Old.
 - 🇲🇽 Born and raised in Mexico City.
 - 🎵 Electronic Music is my jam, all kinds of it.  
-- 🎮 Borderlands 2 it's my favorite videogame of all time. 
-- 💻 Currently studying Computer Science at School of Sciencies, UNAM, Mexico City.
 - 🐧 Archcraft + Openbox + Notion is my perfect combo.
 - 🗣️ Fluent both Spanish and English. I can understand a bit of French and Italian.
 - 🖱️ IT Certified by Google. 
