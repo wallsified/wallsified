@@ -1,5 +1,5 @@
 # Hi! 🧱
-I go as **_wallsified_** since my surname is "Paredes", which is spanish for "wall". Currently studying Computer Science at School of Sciences, UNAM. I'm also both one of the cofounders and the technical leader of [Sudo FCiencias](https://github.com/Sudo-FCiencias), a tech school club/organization aimed to close technical, social and academic gaps for anyone interested on technological topics. 
+I go as **_wallsified_** since my surname is "Paredes", which is spanish for "wall". Currently studying Computer Science at School of Sciences, UNAM and IT Technical Support Engenieer on the weekends. I'm also both one of the cofounders and the technical leader of [Sudo FCiencias](https://github.com/Sudo-FCiencias), a tech school club/organization aimed to close technical, social and academic gaps for anyone interested on technological topics. 
 
 ## A Bit More About Me:  
 - 📆 He/Him, 24 Years Old.
@@ -7,8 +7,6 @@ I go as **_wallsified_** since my surname is "Paredes", which is spanish for "wa
 - 🎵 Electronic Music is my jam, all kinds of it.  
 - 🐧 Archcraft + Openbox + Notion is my perfect combo.
 - 🗣️ Fluent both Spanish and English. I can understand a bit of French and Italian.
-- 🖱️ IT Certified by Google. 
-
 
 ## Languages, Frameworks, Tools & Ways of Working I'm using/learning : 
 ![Python](https://img.shields.io/badge/python-python?style=for-the-badge&logo=Python&logoColor=white&color=1D3C6E)
