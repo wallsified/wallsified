@@ -39,5 +39,3 @@ You can have a look at some of my projects in the pinned repos.
 - [Scare-O-Meter / Scream Machine](https://github.com/Wallsified/ScreamMachine) A play on the Scare-O-Meter (or Scream Battery) of Pixar's Monsters Inc movies using Arduino and ESP32 chips.
 - [Spacedust](https://github.com/Wallsified/Spacedust.git) My AwesomeWM dotfiles.
 -->
-
-modifique esto en un taller
