@@ -1,5 +1,5 @@
 # Hi! 🧱
-I go as **_wallsified_** since my surname is "Paredes", which is spanish for "wall". Currently studying Computer Science at School of Sciences, UNAM and IT Technical Support Engenieer on the weekends. I'm also both one of the cofounders and the technical leader of [Sudo FCiencias](https://github.com/Sudo-FCiencias), a tech school club/organization aimed to close technical, social and academic gaps for anyone interested on technological topics. 
+I go as **_wallsified_** since my surname is "Paredes", which is spanish for "wall". Currently studying Computer Science at School of Sciences, UNAM and I'm also an IT Technical Support Engenieer on the weekends. I'm also both one of the cofounders and the Technical Leader of [Sudo FCiencias](https://github.com/Sudo-FCiencias), a Tech School Club/Organization aimed to close Technical, Social and Academic gaps for anyone interested on technological topics. 
 
 ## A Bit More About Me:  
 - 📆 He/Him, 24 Years Old.
