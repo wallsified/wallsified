@@ -15,7 +15,6 @@ I go as **_wallsified_** since my surname is "Paredes", which is spanish for "wa
 ![Haskell](https://img.shields.io/badge/haskell-haskell?style=for-the-badge&logo=Haskell&logoColor=white&color=800080)
 ![Arduino](https://img.shields.io/badge/arduino-arduino?style=for-the-badge&logo=Arduino&logoColor=white&color=3186A0)
 ![MySQL](https://img.shields.io/badge/mysql-mysql?style=for-the-badge&logo=mySQL&logoColor=white&color=00758F)
-![Clojure](https://img.shields.io/badge/clojure-clojure?style=for-the-badge&logo=Clojure&logoColor=white&color=12284E)
 ![Bash](https://img.shields.io/badge/Bash-bash?style=for-the-badge&logo=GNU%20Bash&logoColor=white&color=434C5E)
 ![Mermaid](https://img.shields.io/badge/MermaidJS-MermaidJS?style=for-the-badge&logo=Mermaid&logoColor=white&color=%23FF3670)
 ![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?style=for-the-badge&logo=conventionalcommits&logoColor=white)
@@ -38,4 +37,5 @@ You can have a look at some of my projects in the pinned repos.
 - [Nordic Dashboard](https://wallsified.notion.site/wallsified/Nordic-Dashboard-31653a95676c43b7830ee2973b27ab38) My Nord-themed Dashboard for Notion.
 - [Scare-O-Meter / Scream Machine](https://github.com/Wallsified/ScreamMachine) A play on the Scare-O-Meter (or Scream Battery) of Pixar's Monsters Inc movies using Arduino and ESP32 chips.
 - [Spacedust](https://github.com/Wallsified/Spacedust.git) My AwesomeWM dotfiles.
+![Clojure](https://img.shields.io/badge/clojure-clojure?style=for-the-badge&logo=Clojure&logoColor=white&color=12284E)
 -->
