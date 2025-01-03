@@ -8,7 +8,7 @@ I go as **_wallsified_** since my surname is "Paredes", which is spanish for "wa
 - 🐧 Archcraft + Openbox + Notion is my perfect combo.
 - 🗣️ Fluent both Spanish and English. I can understand a bit of French and Italian.
 
-## Languages, Frameworks, Tools & Ways of Working I'm using/learning : 
+## Languages, Frameworks, & Tools I use: 
 ![Python](https://img.shields.io/badge/python-python?style=for-the-badge&logo=Python&logoColor=white&color=1D3C6E)
 ![Java](https://img.shields.io/badge/java-java?style=for-the-badge&logo=Java&logoColor=white&color=F89820)
 ![LaTeX](https://img.shields.io/badge/latex-latex?style=for-the-badge&logo=LaTeX&logoColor=white&color=0F548B)
