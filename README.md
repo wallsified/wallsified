@@ -34,6 +34,7 @@ You can have a look at some of my projects in the pinned repos.
 > *I suggest you try it again...this time, let go you coincious self and act on instinct.*
 
 <img src="https://github-readme-stats.vercel.app/api?username=wallsified&show_icons=true&locale=en&theme=nord&rank_icon=github" />
+
 <!--
 ## My Proudest Projects: 
 - [Nordflow](https://github.com/wallsified/nordflow) My dotfiles for Openbox.
