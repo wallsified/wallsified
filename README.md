@@ -4,7 +4,7 @@ I go as **_wallsified_** since my surname is "Paredes", which is spanish for "wa
 ## About Me:  
 - He/Him, 25 Years Old. 📆
 - Currently studying Computer Science at School of Sciences 🏫
-- Cofounder / Technical Leader @ [Sudo FCiencias](https://linktr.ee/sudo_fciencias) (school Club aimed to close technical, social and academic gaps for anyone interested in tech). 💻
+- Cofounder / Technical Leader @ [Sudo FCiencias](https://linktr.ee/sudo_fciencias) (school club aimed to close technical, social and academic gaps for anyone interested in tech). 💻
 - Core Team Member / Community Manager @ [AWS Cloud Club UNAM](https://linktr.ee/aws_unam) (the official student user group of AWS @ UNAM). ☁️
 - Fluent both Spanish and English. Can understand some French and Italian. 🗣️
 
@@ -26,11 +26,6 @@ You can have a look at some of my projects in the pinned repos.
 
 ## Another Me's:
 ![LinkedIn](https://img.shields.io/badge/Daniel_Paredes-%230f548b?style=for-the-badge&logo=LinkedIn&logoColor=white&label=Linkedin&link=www.linkedin.com%2Fin%2Fdaniel-paredes-wallsified)
-![My Portfolio](https://wallsified.is-a.dev/)
-
-<!-- 
-![Twiiter](https://img.shields.io/badge/wallsified-%230f548b?style=for-the-badge&logo=Twitter&logoColor=white&label=Twitter&link=https%3A%2F%2Ftwitter.com%2Fwallsified)
--->
 
 > *I suggest you try it again...this time, let go you coincious self and act on instinct.*
 
