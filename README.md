@@ -1,12 +1,12 @@
 # Hi! 🧱
-I go as **_wallsified_** since my surname is "Paredes", which is spanish for "wall". Currently studying Computer Science at School of Sciences, UNAM and I'm also an IT Technical Support Engenieer on the weekends. I'm also both one of the cofounders and the Technical Leader of [Sudo FCiencias](https://github.com/Sudo-FCiencias), a Tech School Club/Organization aimed to close Technical, Social and Academic gaps for anyone interested on technological topics. 
+I go as **_wallsified_** since my surname is "Paredes", which is spanish for "wall" + a secret but dumb joke about my likes.
 
-## A Bit More About Me:  
-- 📆 He/Him, 25 Years Old.
-- 🇲🇽 Born and raised in Mexico City.
-- 🎵 Electronic Music is my jam, all kinds of it.  
-- 🐧 Archcraft + Openbox + Notion is my perfect combo.
-- 🗣️ Fluent both Spanish and English. I can understand a bit of French and Italian.
+## About Me:  
+- He/Him, 25 Years Old. 📆
+- Currently studying Computer Science at School of Sciences 🏫
+- Cofounder / Technical Leader @ [Sudo FCiencias](https://linktr.ee/sudo_fciencias) (school Club aimed to close technical, social and academic gaps for anyone interested in tech). 💻
+- Core Team Member / Community Manager @ [AWS Cloud Club UNAM](https://linktr.ee/aws_unam) (the official student user group of AWS @ UNAM). ☁️
+- Fluent both Spanish and English. Can understand some French and Italian. 🗣️
 
 ## Languages, Frameworks, & Tools I use: 
 ![Python](https://img.shields.io/badge/python-python?style=for-the-badge&logo=Python&logoColor=white&color=1D3C6E)
@@ -26,6 +26,7 @@ You can have a look at some of my projects in the pinned repos.
 
 ## Another Me's:
 ![LinkedIn](https://img.shields.io/badge/Daniel_Paredes-%230f548b?style=for-the-badge&logo=LinkedIn&logoColor=white&label=Linkedin&link=www.linkedin.com%2Fin%2Fdaniel-paredes-wallsified)
+![My Portfolio](https://wallsified.is-a.dev/)
 
 <!-- 
 ![Twiiter](https://img.shields.io/badge/wallsified-%230f548b?style=for-the-badge&logo=Twitter&logoColor=white&label=Twitter&link=https%3A%2F%2Ftwitter.com%2Fwallsified)
