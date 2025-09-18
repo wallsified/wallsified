@@ -8,7 +8,7 @@ I go as **_wallsified_** since my surname is "Paredes", which is spanish for "wa
 - Core Team Member / Community Manager @ [AWS Cloud Club UNAM](https://linktr.ee/aws_unam) (the official student user group of AWS @ UNAM). ☁️
 - Fluent both Spanish and English. Can understand some French and Italian. 🗣️
 
-## Languages, Frameworks, & Tools I use: 
+## What I use: 
 ![Python](https://img.shields.io/badge/python-python?style=for-the-badge&logo=Python&logoColor=white&color=1D3C6E)
 ![Java](https://img.shields.io/badge/java-java?style=for-the-badge&logo=Java&logoColor=white&color=F89820)
 ![LaTeX](https://img.shields.io/badge/latex-latex?style=for-the-badge&logo=LaTeX&logoColor=white&color=0F548B)
@@ -29,13 +29,4 @@ You can have a look at some of my projects in the pinned repos.
 
 > *I suggest you try it again...this time, let go you coincious self and act on instinct.*
 
-<img src="https://github-readme-stats.vercel.app/api?username=wallsified&show_icons=true&locale=en&theme=nord&rank_icon=github" />
-
-<!--
-## My Proudest Projects: 
-- [Nordflow](https://github.com/wallsified/nordflow) My dotfiles for Openbox.
-- [Nordic Dashboard](https://wallsified.notion.site/wallsified/Nordic-Dashboard-31653a95676c43b7830ee2973b27ab38) My Nord-themed Dashboard for Notion.
-- [Scare-O-Meter / Scream Machine](https://github.com/Wallsified/ScreamMachine) A play on the Scare-O-Meter (or Scream Battery) of Pixar's Monsters Inc movies using Arduino and ESP32 chips.
-- [Spacedust](https://github.com/Wallsified/Spacedust.git) My AwesomeWM dotfiles.
-![Clojure](https://img.shields.io/badge/clojure-clojure?style=for-the-badge&logo=Clojure&logoColor=white&color=12284E)
--->
+[![wallsified's GitHub stats](https://github-readme-stats.vercel.app/api?username=wallsified&show_icons=true&locale=en&theme=prussian&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
