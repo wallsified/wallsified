@@ -3,7 +3,7 @@ I go as **_wallsified_** since my surname is "Paredes", which is spanish for "wa
 
 ## About Me:  
 - He/Him, 25 Years Old. 📆
-- Currently studying Computer Science at School of Sciences 🏫
+- Currently studying Computer Science at School of Sciences, UNAM 🏫
 - Cofounder / Technical Leader @ [Sudo FCiencias](https://linktr.ee/sudo_fciencias) (school club aimed to close technical, social and academic gaps for anyone interested in tech). 💻
 - Core Team Member / Community Manager @ [AWS Cloud Club UNAM](https://linktr.ee/aws_unam) (the official student user group of AWS @ UNAM). ☁️
 - Staff Member @ [PythonCDMX](https://pythoncdmx.org/) 🐍
